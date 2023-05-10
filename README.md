@@ -7,7 +7,7 @@ pour les intervenants en IME (Institut Médico-Éducatif).
 # Installation
 Le code source de l'application Android se trouve dans le repository git 
 suivant : [https://forge.univ-lyon1.fr/p2102597/SaeApplication](https://forge.univ-lyon1.fr/p2102597/SaeApplication). Veuillez-vous référer à son README.md 
-pour les instructions d'installation et d'utilisation.
+pour les instructions d'installation et d'utilisation. Une fois l'installation terminé, veuillez configurer le fichier /web/class/paramDefault.php avec les informations de votre base de données.
 
 # Site Web, Base de données et API
 Pour l'installation du projet, veuillez vous référer au manuel d'installation disponible dans le dossier
