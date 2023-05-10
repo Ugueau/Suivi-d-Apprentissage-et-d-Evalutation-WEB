@@ -10,9 +10,10 @@ suivant : https://github.com/Ugueau/Suivi-d-Apprentissage-et-d-Evaluation-App. V
 pour les instructions d'installation et d'utilisation.
 
 # Site Web, Base de données et API
-Pour l'installation du projet, veuillez vous référer au manuel d'installation disponible dans le dossier
+Pour l'installation du projet, commencez par configurer le fichier /web/class/paramDefault.php avec les informations de votre base de données.
+Ensuite veuillez vous référer au manuel d'installation disponible dans le dossier
 "manuel". Ce manuel contient toutes les informations nécessaires pour installer le site web, la base de 
-données et l'API sur votre machine. Une fois l'installation terminé, veuillez configurer le fichier /web/class/paramDefault.php avec les informations de votre base de données.
+données et l'API sur votre machine.
 
 Pour l'utilisation du site web, veuillez vous référer au manuel utilisateur disponible dans le dossier 
 "manuel". Ce manuel contient toutes les informations nécessaires à la prise en main du site web.
