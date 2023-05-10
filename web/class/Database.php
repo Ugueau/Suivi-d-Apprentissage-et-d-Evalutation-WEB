@@ -1,9 +1,6 @@
 <?php
 
-//require_once __DIR__."/paramMaxence.php";
-//require_once __DIR__."/paramOVH.php";
-require_once  __DIR__."/paramMathis.php";
-//require_once __DIR__."/paramProxMox.php";
+require_once __DIR__ . "/paramDefault.php";
 
 /**
  * Class Database
