@@ -6,7 +6,7 @@ pour les intervenants en IME (Institut Médico-Éducatif).
 
 # Installation
 Le code source de l'application Android se trouve dans le repository git 
-suivant : [https://forge.univ-lyon1.fr/p2102597/SaeApplication](https://forge.univ-lyon1.fr/p2102597/SaeApplication). Veuillez-vous référer à son README.md 
+suivant : https://github.com/Ugueau/Suivi-d-Apprentissage-et-d-Evaluation-App. Veuillez-vous référer à son README.md 
 pour les instructions d'installation et d'utilisation.
 
 # Site Web, Base de données et API
