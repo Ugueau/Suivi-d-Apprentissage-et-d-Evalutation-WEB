@@ -1,0 +1,13 @@
+popupRechercheCategorie.php -> la recherche ne fonctionne pas
+popupCompetencesExistantes.php -> la recherche ne fonctionne pas
+quand on crée une nouvelle compétence depuis /educateur/categories ca redirige vers nouvelle activité
+impossibe d'ajouter une comp dans une cat depuis /responsable/categories ou /educateur/categories
+impossible de supprimer une comp de sa cat depuis /responsable/categories ou /educateur/categories
+les champs sont réinitialiser quand on crée une nouvelle comp depuis /educateur/nouvelle_activite sauf quand on modifie
+dans /educateur/activiteDuMoment la popup d'ajout d'élève ne pré-coche pas les élève et si un élève déjà présent est coché l'ajout ne se fait pas
+calendrier patch la date 2058
+page personnel -> filtre ime manque les imes dedans
+	       -> modifier et supprimer ne marche pas
+	       -> créer un personnel marche pas
+page accueil directeur impossible de supprimer un ime ou d'en créer un
+parametres impossible de supprimer son compte

@@ -1,0 +1,18 @@
+function idPersonne connexion (Login, mdp);
+
+educateur 
+	Accueil
+		procedure listeActivitéDuMoment(idIME);
+		function bool CreationDuneActiviteDuMoment(idActivité, idEducateur, liste idElève);
+	Liste des Eleves
+		procedure listeDesEleves(idIME);
+	Activité
+		procedure listeActivité(idIME);
+	Nouvelle Activité
+		function bool creationDuneActivite(Nom,Description, listeCompetence);
+	Recherche Competence
+		procedure listeCompetence(idIME);
+	Nouvelle competence
+		function bool creationDuneCompetence(Nom,Description,listeCategorie);
+	Recherche Categorie
+		procedure listeCategorie(idIME);
